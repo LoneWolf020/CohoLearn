@@ -1,0 +1,55 @@
+# OS or editor backup files
+*~
+.#*
+.DS_Store
+
+# Node.js
+**/node_modules/
+
+# Dependency directories
+/bower_components/
+/jspm_packages/
+
+# Environment-specific files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+/build/
+/dist/
+/out/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# IDE or editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled binaries or libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archives and packages
+*.zip
+*.tar.gz
+*.rar
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
